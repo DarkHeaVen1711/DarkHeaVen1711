@@ -56,7 +56,7 @@ I am a 4th-year Computer Science & Engineering student specializing in AI-ML at 
 *   **LinkedIn:** [linkedin.com/in/Vyom Modh](https://www.linkedin.com/in/vyom-modh/)
 *   **Email:** [vyommodh0@gmail.com](mailto:vyommodh0@gmail.com)
 *   **Collaborating on:** Advanced full-stack ecosystems, complex ML pipelines, and original research writing.
-*   **Ask me about:** Why the 2021 F1 season finale remains an absolute classic, tactical data frameworks, or mapping out high-altitude trekking routes.
+*   **Ask me about:** Political Science & International Relations (PSIR) dynamics, mapping out high-altitude trekking routes, building sequence models for anomaly detection, hunting down rare pop-culture holographic    stickers, or why the 2021 F1 season finale remains an absolute classic.
 
 ---
 
