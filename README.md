@@ -42,13 +42,13 @@ I am a 4th-year Computer Science & Engineering student specializing in AI-ML at 
 
 ---
 
-### 📊 GitHub Insights
+### 📊 Project Metrics & Ecosystem Track
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkHeaVen1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vyom's Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHeaVen1711&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
+| Metric | Focus Area | Status |
+| :--- | :--- | :--- |
+| **Core Research** | Deep Learning & Sequence Models (CNN-LSTM) | ![Active](https://img.shields.io/badge/Status-Active-111111?style=flat-square) |
+| **System Security** | Medical Device Ecosystems & Behavioral Analytics | ![Researching](https://img.shields.io/badge/Status-Researching-111111?style=flat-square) |
+| **Ecosystem Track** | Full-Stack Automation & Enterprise Frameworks (Odoo/Django) | ![Building](https://img.shields.io/badge/Status-Building-111111?style=flat-square) |
 ---
 
 ### 📫 Let's Connect
