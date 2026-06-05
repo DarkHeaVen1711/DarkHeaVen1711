@@ -6,18 +6,26 @@ on:
   workflow_dispatch: # Allows you to trigger it manually anytime
 
 jobs:
-  build:
+  update-streak:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate Streak SVG
-        uses: DenverCoder1/github-readme-streak-stats-action@v1
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats SVG
+        uses: be-next/github-streak-stats-action@v1
         with:
-          user: DarkHeaVen1711
-          theme: dark
-          background: "000000"
-          hide_border: "true"
-          ring: "000000"
-          fire: "ffffff"
+          username: DarkHeaVen1711
+          theme: tokyonight
+          hide-border: true
+          output-path: profile/streak.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "chore: update github streak stats visual" || exit 0
+          git push
