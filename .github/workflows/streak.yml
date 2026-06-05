@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs automatically every day at midnight
   workflow_dispatch: # Allows you to trigger it manually anytime
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true" # Forces GitHub runners to compile actions using the Node 24 runtime
+
 jobs:
   update-streak:
     runs-on: ubuntu-latest
