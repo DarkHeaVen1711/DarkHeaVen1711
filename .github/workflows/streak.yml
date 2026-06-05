@@ -1,0 +1,23 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every day at midnight
+  workflow_dispatch: # Allows you to trigger it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Streak SVG
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
+        with:
+          user: DarkHeaVen1711
+          theme: dark
+          background: "000000"
+          hide_border: "true"
+          ring: "000000"
+          fire: "ffffff"
