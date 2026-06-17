@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Gotham skyline" />
+<img src="./header.svg" width="100%" alt="Gotham skyline" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me.;Deep+Learning+Researcher;Cybersecurity+Analyst;Full-Stack+Engineer;IEEE+Vice+Chair+%40+Adani+University&font=Fira%20Code&center=true&width=700&height=50&color=FFFFFF&vCenter=true&size=24&background=00000000&duration=3000" />
 
@@ -209,6 +209,6 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Gotham skyline" />
+<img src="./footer.svg" width="100%" alt="Gotham skyline" />
 
 </div>
