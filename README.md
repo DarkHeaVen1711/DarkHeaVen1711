@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./header.svg" width="100%" alt="Gotham skyline" />
-
 <img src="https://readme-typing-svg.demolab.com/?lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me.;Deep+Learning+Researcher;Cybersecurity+Analyst;Full-Stack+Engineer;IEEE+Vice+Chair+%40+Adani+University&font=Fira%20Code&center=true&width=700&height=50&color=FFFFFF&vCenter=true&size=24&background=00000000&duration=3000" />
 
 </div>
@@ -42,12 +41,12 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  VICE CHAIR                                                │
-│  └── IEEE Student Branch, Adani University                 │
-│                                                              │
-│  SECTION STUDENT REPRESENTATIVE (SSR)                      │
-│  └── IEEE Gujarat Section                                   │
-│      (Outreach, Coordination & Membership Team)            │
+│  VICE CHAIR                                              │
+│  └── IEEE Student Branch, Adani University               │
+│                                                          │
+│  SECTION STUDENT REPRESENTATIVE (SSR)                    │
+│  └── IEEE Gujarat Section                                │
+│      (Outreach, Coordination & Membership Team)          │
 └──────────────────────────────────────────────────────────┘
 ```
 
