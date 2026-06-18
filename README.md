@@ -172,7 +172,7 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
  <img src="https://github-readme-stats.vercel.app/api?username=DarkHeaVen1711&v=2&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000&ring_color=ffffff" width="48%" alt="GitHub stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHeaVen1711&theme=transparent&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%" alt="GitHub streak" />
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHeaVen1711&v=2&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000" width="48%" alt="Top languages" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHeaVen1711&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000" width="48%" alt="Top languages" /> 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkHeaVen1711&v=2&theme=github-compact&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=1a1a1a" width="96%" alt="Contribution graph" />
 
