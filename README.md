@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Gotham skyline" />
-<img src="https://readme-typing-svg.demolab.com/?lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me.;Deep+Learning+Researcher;Cybersecurity+Analyst;Full-Stack+Engineer;IEEE+Vice+Chair+%40+Adani+University&font=Fira%20Code&center=true&width=700&height=50&color=FFFFFF&vCenter=true&size=24&background=00000000&duration=3000" />
+<img src="./header.svg" width="100%" alt="Professional Skyline" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Deep+Learning+%26+AI%2FML+Researcher;Cybersecurity+Analyst;Full-Stack+Software+Engineer;IEEE+Gujarat+Section+Student+Representative;Vice+Chair+%40+IEEE+Adani+University&font=Fira%20Code&center=true&width=700&height=50&color=FFFFFF&vCenter=true&size=24&background=00000000&duration=3000" />
 
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DarkHeaVen1711&label=PROFILE%20VIEWS&color=000000&style=flat&base=100" alt="profile views"/>
-  <img src="https://img.shields.io/badge/STATUS-GOTHAM'S%20WATCHING-000000?style=flat&labelColor=000000&color=1a1a1a" alt="status"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-000000?style=flat&labelColor=000000&color=1a1a1a" alt="status"/>
   <a href="https://github.com/DarkHeaVen1711?tab=followers"><img src="https://img.shields.io/github/followers/DarkHeaVen1711?label=FOLLOWERS&style=flat&color=000000&labelColor=000000" alt="followers"/></a>
 </p>
 
@@ -19,9 +19,9 @@
 <tr>
 <td valign="top" width="100%">
 
-### 🦇 THE FILE
+### 🔭 PROFILE & RESEARCH INTERESTS
 
-I am a 4th-year Computer Science & Engineering student specializing in AI/ML at **Adani University**. My work lives at the intersection of deep neural network architectures, behavioral fraud analytics, and high-performance full-stack development. I enjoy breaking down complex problems — whether optimizing sequence models or reverse-engineering systemic vulnerabilities. Gotham doesn't need a hero who sleeps on a clean codebase.
+I am a final-year Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning at **Adani University**. My work lives at the intersection of deep neural network architectures, behavioral fraud analytics, and high-performance full-stack development. I enjoy breaking down complex problems—whether designing and optimizing sequence models, analyzing systemic software vulnerabilities, or implementing cryptographic protocols.
 
 </td>
 </tr>
@@ -35,21 +35,15 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td>
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  VICE CHAIR                                              │
-│  └── IEEE Student Branch, Adani University               │
-│                                                          │
-│  SECTION STUDENT REPRESENTATIVE (SSR)                    │
-│  └── IEEE Gujarat Section                                │
-│      (Outreach, Coordination & Membership Team)          │
-└──────────────────────────────────────────────────────────┘
-```
-
+<td align="center" style="padding: 15px; border: 1px solid #1a1a1a;" width="50%">
+  <strong>VICE CHAIR</strong><br>
+  <sub>IEEE Student Branch, Adani University</sub>
+</td>
+<td align="center" style="padding: 15px; border: 1px solid #1a1a1a;" width="50%">
+  <strong>SECTION STUDENT REPRESENTATIVE (SSR)</strong><br>
+  <sub>IEEE Gujarat Section (Outreach, Coordination & Membership Team)</sub>
 </td>
 </tr>
 </table>
@@ -58,15 +52,15 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 <div align="center">
 
-### 🚀 CASE FILES — FEATURED PROJECTS & RESEARCH
+### 📁 FEATURED PROJECTS & RESEARCH
 
 </div>
 
 <table align="center" width="100%">
 <tr>
-<th>🗂️ Case</th>
-<th>Briefing</th>
-<th>Arsenal</th>
+<th>📁 Project</th>
+<th>📝 Description</th>
+<th>🛠️ Tech Stack</th>
 </tr>
 <tr>
 <td><b>ExoHabitNet</b><br><sub>Deep Learning Framework</sub></td>
@@ -85,13 +79,13 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/DarkHeaVen1711?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20THE%20CASE%20FILES-000000?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/DarkHeaVen1711?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 <br>
 
 <div align="center">
 
-### 🛠️ THE UTILITY BELT
+### 🛠️ TECHNICAL SKILLS & TOOLSET
 
 </div>
 
@@ -167,7 +161,7 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 <div align="center">
 
-### 📊 THE FILE ON ME — GITHUB STATS
+### 📊 PERFORMANCE METRICS & CONTRIBUTIONS
 
 <img src="https://github-stats-extended.vercel.app/api?username=DarkHeaVen1711&v=2&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000&ring_color=ffffff" width="48%" alt="GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHeaVen1711&theme=transparent&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%" alt="GitHub streak" />
@@ -180,15 +174,15 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 <div align="center">
 
-### 📡 THE BAT-SIGNAL — LET'S CONNECT
+### 🤝 CONNECT & COLLABORATE
 
 <a href="https://www.linkedin.com/in/vyom-modh/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vyommodh0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/DarkHeaVen1711"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-**Collaborating on:** Advanced full-stack ecosystems, complex ML pipelines, and original research writing.
+**Research & Collaboration:** Open to discussing deep learning research architectures, cybersecurity frameworks, and technical writing projects.
 
-**Ask me about:** Political Science & International Relations (PSIR) dynamics, mapping high-altitude trekking routes, building sequence models for anomaly detection, hunting rare pop-culture holographic stickers, or why the 2021 F1 season finale remains an absolute classic.
+**Interests & Conversations:** Ask me about Machine Learning anomaly detection, high-altitude trekking routes, Political Science & International Relations (PSIR) dynamics, Formula 1 racing, or backend system design.
 
 </div>
 
@@ -206,6 +200,6 @@ I am a 4th-year Computer Science & Engineering student specializing in AI/ML at 
 
 <div align="center">
 
-<img src="./footer.svg" width="100%" alt="Gotham skyline" />
+<img src="./footer.svg" width="100%" alt="Professional Skyline" />
 
 </div>
